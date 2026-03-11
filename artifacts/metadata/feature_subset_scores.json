@@ -1,0 +1,120 @@
+{
+  "5": {
+    "rmse_mean": 2.3928593711711916,
+    "rmse_std": 0.008231849707700531,
+    "features": [
+      "microtransactions_spending",
+      "years_gaming",
+      "daily_gaming_hours",
+      "income",
+      "sleep_hours"
+    ]
+  },
+  "10": {
+    "rmse_mean": 2.393543797461834,
+    "rmse_std": 0.008468743280304872,
+    "features": [
+      "microtransactions_spending",
+      "years_gaming",
+      "daily_gaming_hours",
+      "income",
+      "sleep_hours",
+      "multiplayer_ratio",
+      "loneliness_score",
+      "exercise_hours",
+      "addiction_level",
+      "relationship_satisfaction"
+    ]
+  },
+  "15": {
+    "rmse_mean": 2.3938619448831027,
+    "rmse_std": 0.008140338010353684,
+    "features": [
+      "microtransactions_spending",
+      "years_gaming",
+      "daily_gaming_hours",
+      "income",
+      "sleep_hours",
+      "multiplayer_ratio",
+      "loneliness_score",
+      "exercise_hours",
+      "addiction_level",
+      "relationship_satisfaction",
+      "age",
+      "weekly_sessions",
+      "caffeine_intake",
+      "stress_level",
+      "anxiety_score"
+    ]
+  },
+  "20": {
+    "rmse_mean": 2.3939229799785178,
+    "rmse_std": 0.008436114236023664,
+    "features": [
+      "microtransactions_spending",
+      "years_gaming",
+      "daily_gaming_hours",
+      "income",
+      "sleep_hours",
+      "multiplayer_ratio",
+      "loneliness_score",
+      "exercise_hours",
+      "addiction_level",
+      "relationship_satisfaction",
+      "age",
+      "weekly_sessions",
+      "caffeine_intake",
+      "stress_level",
+      "anxiety_score",
+      "social_interaction_score",
+      "academic_performance",
+      "work_productivity",
+      "toxic_exposure",
+      "violent_games_ratio"
+    ]
+  },
+  "38": {
+    "rmse_mean": 2.394197540701929,
+    "rmse_std": 0.008219821815076939,
+    "features": [
+      "microtransactions_spending",
+      "years_gaming",
+      "daily_gaming_hours",
+      "income",
+      "sleep_hours",
+      "multiplayer_ratio",
+      "loneliness_score",
+      "exercise_hours",
+      "addiction_level",
+      "relationship_satisfaction",
+      "age",
+      "weekly_sessions",
+      "caffeine_intake",
+      "stress_level",
+      "anxiety_score",
+      "social_interaction_score",
+      "academic_performance",
+      "work_productivity",
+      "toxic_exposure",
+      "violent_games_ratio",
+      "mobile_gaming_ratio",
+      "night_gaming_ratio",
+      "weekend_gaming_hours",
+      "friends_gaming_count",
+      "online_friends",
+      "streaming_hours",
+      "esports_interest",
+      "headset_usage",
+      "parental_supervision",
+      "aggression_score",
+      "happiness_score",
+      "bmi",
+      "screen_time_total",
+      "eye_strain_score",
+      "back_pain_score",
+      "competitive_rank",
+      "internet_quality",
+      "gender"
+    ]
+  }
+}

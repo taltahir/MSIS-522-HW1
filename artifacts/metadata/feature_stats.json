@@ -1,0 +1,276 @@
+{
+  "age": {
+    "min": 13.0,
+    "max": 59.0,
+    "mean": 36.0076,
+    "median": 36.0,
+    "std": 13.590019720836326
+  },
+  "income": {
+    "min": 5000.0,
+    "max": 149997.0,
+    "mean": 77308.2457,
+    "median": 77254.5,
+    "std": 41870.60308201042
+  },
+  "daily_gaming_hours": {
+    "min": 0.01,
+    "max": 25.44,
+    "mean": 4.0046762,
+    "median": 3.36,
+    "std": 2.8398017593899425
+  },
+  "weekly_sessions": {
+    "min": 1.0,
+    "max": 39.0,
+    "mean": 20.01602,
+    "median": 20.0,
+    "std": 11.290960679918317
+  },
+  "years_gaming": {
+    "min": 0.0,
+    "max": 24.0,
+    "mean": 12.02734,
+    "median": 12.0,
+    "std": 7.21013677025928
+  },
+  "sleep_hours": {
+    "min": 1.01,
+    "max": 13.18,
+    "mean": 7.0008794,
+    "median": 7.01,
+    "std": 1.4933374681536373
+  },
+  "caffeine_intake": {
+    "min": 0.0,
+    "max": 25.67,
+    "mean": 2.0028418,
+    "median": 1.39,
+    "std": 2.0009244803710815
+  },
+  "exercise_hours": {
+    "min": 0.0,
+    "max": 24.95,
+    "mean": 2.0003456,
+    "median": 1.39,
+    "std": 1.9932649935889943
+  },
+  "stress_level": {
+    "min": 1.0,
+    "max": 10.0,
+    "mean": 5.52136,
+    "median": 6.0,
+    "std": 2.866619629557087
+  },
+  "anxiety_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.0117798,
+    "median": 5.0,
+    "std": 1.9851580529927253
+  },
+  "social_interaction_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.989014399999999,
+    "median": 6.0,
+    "std": 1.9602787940626325
+  },
+  "relationship_satisfaction": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.994928600000001,
+    "median": 6.01,
+    "std": 1.9569882817647988
+  },
+  "academic_performance": {
+    "min": 10.38,
+    "max": 100.0,
+    "mean": 69.7780048,
+    "median": 69.9,
+    "std": 14.668982498869102
+  },
+  "work_productivity": {
+    "min": 0.0,
+    "max": 100.0,
+    "mean": 69.8765414,
+    "median": 69.97,
+    "std": 14.662874167013191
+  },
+  "addiction_level": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 2.8213738,
+    "median": 2.45,
+    "std": 2.1225883742029885
+  },
+  "multiplayer_ratio": {
+    "min": 0.0,
+    "max": 0.99,
+    "mean": 0.5018044,
+    "median": 0.5,
+    "std": 0.22400724927018437
+  },
+  "toxic_exposure": {
+    "min": 0.0,
+    "max": 0.91,
+    "mean": 0.2847508,
+    "median": 0.26,
+    "std": 0.15937202354302266
+  },
+  "violent_games_ratio": {
+    "min": 0.0,
+    "max": 0.98,
+    "mean": 0.39973400000000003,
+    "median": 0.38,
+    "std": 0.20052931327890613
+  },
+  "mobile_gaming_ratio": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.49916800000000006,
+    "median": 0.5,
+    "std": 0.223388643009703
+  },
+  "night_gaming_ratio": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.49990559999999995,
+    "median": 0.5,
+    "std": 0.22358335107726066
+  },
+  "weekend_gaming_hours": {
+    "min": 0.03,
+    "max": 41.35,
+    "mean": 6.0252132000000005,
+    "median": 5.05,
+    "std": 4.257128693549213
+  },
+  "friends_gaming_count": {
+    "min": 0.0,
+    "max": 49.0,
+    "mean": 24.4671,
+    "median": 25.0,
+    "std": 14.41339628643611
+  },
+  "online_friends": {
+    "min": 0.0,
+    "max": 499.0,
+    "mean": 248.87302,
+    "median": 248.0,
+    "std": 144.6561866092359
+  },
+  "streaming_hours": {
+    "min": 0.01,
+    "max": 13.89,
+    "mean": 2.0094786,
+    "median": 1.7,
+    "std": 1.4075744425991363
+  },
+  "esports_interest": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.01598,
+    "median": 5.0,
+    "std": 3.1536524142763422
+  },
+  "headset_usage": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.49984,
+    "median": 0.0,
+    "std": 0.5000049744747446
+  },
+  "microtransactions_spending": {
+    "min": 0.02,
+    "max": 5588.2,
+    "mean": 498.46915759999996,
+    "median": 345.38,
+    "std": 497.5635465451819
+  },
+  "parental_supervision": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.0089,
+    "median": 5.0,
+    "std": 3.162533924310765
+  },
+  "loneliness_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.007486800000001,
+    "median": 5.0,
+    "std": 1.9756611340419923
+  },
+  "aggression_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 4.9947856,
+    "median": 5.0,
+    "std": 1.9861284228757423
+  },
+  "happiness_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.983628600000001,
+    "median": 6.0,
+    "std": 1.9665740340833016
+  },
+  "bmi": {
+    "min": 6.87,
+    "max": 41.71,
+    "mean": 23.995147199999998,
+    "median": 24.01,
+    "std": 3.9983079770905285
+  },
+  "screen_time_total": {
+    "min": 0.28,
+    "max": 34.43,
+    "mean": 7.995146,
+    "median": 7.34,
+    "std": 4.013465493160405
+  },
+  "eye_strain_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 5.0056474,
+    "median": 5.01,
+    "std": 1.9732949872574488
+  },
+  "back_pain_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 4.0232378,
+    "median": 4.0,
+    "std": 1.9571931848324056
+  },
+  "competitive_rank": {
+    "min": 0.0,
+    "max": 99.0,
+    "mean": 49.47306,
+    "median": 49.0,
+    "std": 28.790277036482937
+  },
+  "internet_quality": {
+    "min": 1.0,
+    "max": 10.0,
+    "mean": 5.47132,
+    "median": 5.0,
+    "std": 2.8810941448813217
+  },
+  "depression_score": {
+    "min": 0.0,
+    "max": 10.0,
+    "mean": 4.9885994,
+    "median": 4.98,
+    "std": 2.3926805350323086
+  },
+  "gender": {
+    "mode": "Male",
+    "unique": [
+      "Female",
+      "Male",
+      "Other"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "target_distribution": "The target distribution is roughly symmetric (skew=0.01). Scores range from 0.0 to 10.0 (mean=4.99). About 0.0% of observations fall outside the IQR outlier bounds. We use RMSE and MAE to remain sensitive to wide tails while capturing overall fit.",
+  "gender_vs_target": "Average depression_score varies by gender, with Male showing the lowest mean (4.98) and Female the highest (5.00). The spread suggests gender may contribute modestly to target variation. Differences are visible but not extreme, so gender likely interacts with other drivers.",
+  "gender_mean_delta": "This chart shows how each gender's mean differs from the overall average. Values close to zero indicate minimal differences, which is the case in this dataset.",
+  "gaming_hours_binned": "This chart bins daily gaming time and shows the distribution of target scores within each band. If the boxes are similar across bins, it suggests daily gaming time has a weaker relationship with the target.",
+  "sleep_hours_vs_target": "Sleep duration often correlates with mental health indicators; this plot shows the overall trend. A downward slope would suggest higher sleep is linked with lower target scores.",
+  "stress_level_vs_target": "Grouping by stress level highlights how the target changes at higher stress values. Wider boxes and higher medians indicate more variability and higher scores in those groups.",
+  "feature_scatter_1": "age shows a positive relationship with depression_score (r=0.01). The trend line highlights how changes in this feature align with target shifts. Scatter around the line hints at additional variables that modulate the relationship.",
+  "feature_scatter_2": "screen_time_total shows a positive relationship with depression_score (r=0.01). The trend line highlights how changes in this feature align with target shifts. Scatter around the line hints at additional variables that modulate the relationship.",
+  "pairplot": "The pair plot summarizes how the most correlated features jointly relate to the target. Clustering and slope patterns suggest potential multicollinearity and non-linear effects. These patterns motivate tree-based models that capture interactions.",
+  "correlation_heatmap": "The strongest correlation appears between happiness_score and mobile_gaming_ratio (r=-0.01). This may indicate overlapping information that could affect linear models. We keep correlated features but compare regularized linear models to mitigate multicollinearity."
+}

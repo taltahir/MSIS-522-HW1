@@ -1,0 +1,18 @@
+{
+  "best_model": "Lasso",
+  "best_rmse": 2.3913564041992434,
+  "best_r2": -0.00028435275606408794,
+  "best_tree_model": "RandomForest",
+  "top_features": [
+    "microtransactions_spending",
+    "years_gaming",
+    "daily_gaming_hours",
+    "income",
+    "sleep_hours",
+    "multiplayer_ratio",
+    "loneliness_score",
+    "exercise_hours",
+    "addiction_level",
+    "relationship_satisfaction"
+  ]
+}

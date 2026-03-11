@@ -1,0 +1,8 @@
+{
+  "LinearRegression": "artifacts/models/LinearRegression.joblib",
+  "Lasso": "artifacts/models/Lasso.joblib",
+  "Ridge": "artifacts/models/Ridge.joblib",
+  "DecisionTree": "artifacts/models/DecisionTree.joblib",
+  "RandomForest": "artifacts/models/RandomForest.joblib",
+  "MLPRegressor": "artifacts/models/MLPRegressor.joblib"
+}
