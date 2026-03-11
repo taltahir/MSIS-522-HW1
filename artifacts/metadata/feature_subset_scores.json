@@ -27,8 +27,8 @@
     ]
   },
   "15": {
-    "rmse_mean": 2.3938619448831027,
-    "rmse_std": 0.008140338010353684,
+    "rmse_mean": 2.393861944883103,
+    "rmse_std": 0.008140338010353887,
     "features": [
       "microtransactions_spending",
       "years_gaming",
